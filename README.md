@@ -16,7 +16,7 @@ Developer LinkedIn :  https://www.linkedin.com/in/aniketsinha2002/
 
 Developer Github : https://github.com/aniketsinha192
 
-Developer Info Link : 
+Developer Info Link : https://www.linkedin.com/in/aniketsinha2002/
 
 _____________________________________________________________________________________________________________________________
 
