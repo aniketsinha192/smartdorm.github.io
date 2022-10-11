@@ -8,15 +8,20 @@ ________________________________________________________________________________
 
 Developer Name :          Aniket Sinha
 
+
 Developer Institution :   Jadavpur University (2021-2025 Batch)
 
 Developer Occupation :    Student, Pursuing B.E. in Industrial and Production Engineering
 
-Developer LinkedIn :
+Developer Institution :   Jadavpur University (2021-2025)
+
+Developer Occupation :    Student | Pursuing B.E. in Industrial and Production Engineering (PIE)
+
+Developer LinkedIn :      https://www.linkedin.com/in/aniketsinha2002/
 
 Developer Github :        https://github.com/aniketsinha192
 
-Developer Info Link : 
+Developer Info Link :     https://www.linkedin.com/in/aniketsinha2002/
 
 _____________________________________________________________________________________________________________________________
 
@@ -30,4 +35,4 @@ Project Purpose :         Website for Hackthon ( Technophillia '22  )  which was
 
 ________________________________________________________________________________________________________________________________
 
-Copyright © 2022 Developer. All rights reserved.
+Copyright Aniket Sinha© 2022 Developer. All rights reserved.
