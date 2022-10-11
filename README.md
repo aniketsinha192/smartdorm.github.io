@@ -6,27 +6,32 @@ ________________________________________________________________________________
 
 # Developer Information
 
-Developer Name : Aniket Sinha
+Developer Name :          Aniket Sinha
 
-Developer Institution : Jadavpur University (2021-2025)
 
-Developer Occupation : Student | Pursuing B.E. in Industrial and Production Engineering (PIE)
+Developer Institution :   Jadavpur University (2021-2025 Batch)
 
-Developer LinkedIn :  https://www.linkedin.com/in/aniketsinha2002/
+Developer Occupation :    Student, Pursuing B.E. in Industrial and Production Engineering
 
-Developer Github : https://github.com/aniketsinha192
+Developer Institution :   Jadavpur University (2021-2025)
 
-Developer Info Link : https://www.linkedin.com/in/aniketsinha2002/
+Developer Occupation :    Student | Pursuing B.E. in Industrial and Production Engineering (PIE)
+
+Developer LinkedIn :      https://www.linkedin.com/in/aniketsinha2002/
+
+Developer Github :        https://github.com/aniketsinha192
+
+Developer Info Link :     https://www.linkedin.com/in/aniketsinha2002/
 
 _____________________________________________________________________________________________________________________________
 
 # Project Information
 
-Project Website : https://aniketsinha192.github.io/smartdorm.github.io/
+Project Website :         https://aniketsinha192.github.io/smartdorm.github.io/
 
-Project Details : Website created using HTML, CSS,JS, swiper bundle framework and bootstrap
+Project Details :         Website created using HTML, CSS,JS, swiper bundle framework and bootstrap
 
-Project Purpose : Website for Hackthon ( Technophillia '22  )  which was hosted by Jadavpur University Science Club (JUSC) under Devfolio
+Project Purpose :         Website for Hackthon ( Technophillia '22  )  which was hosted by Jadavpur University Science Club (JUSC) under Devfolio
 
 ________________________________________________________________________________________________________________________________
 
