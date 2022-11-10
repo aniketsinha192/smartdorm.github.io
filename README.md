@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 # Project Information
 
-Project Website :         https://aniketsinha192.github.io/smartdorm.github.io/
+Project Website :         https://aniketsinha2002.github.io/smartdorm.github.io/
 
 Project Details :         Website created using HTML, CSS,JS, swiper bundle framework and bootstrap
 
